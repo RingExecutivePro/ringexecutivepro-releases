@@ -4,7 +4,7 @@ Welcome to the official releases repository for Ring Executive Pro. During devel
 
 Download the latest release from the [Releases](https://github.com/husainfazel/ringexecutivepro-releases/releases) page. Each release includes all necessary versions for MacOS (arm/x86_64) and Windows
 
-Current Version 0.0.1a
+Current Version 0.0.2
 
 ## Feedback and Contributions
 
